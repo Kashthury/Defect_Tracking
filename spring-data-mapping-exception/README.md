@@ -1,0 +1,1 @@
+# spring-data-mapping-exception
